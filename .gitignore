@@ -1,6 +1,7 @@
 # Mac
 .DS_Store
 
+
 # Godot 4+ specific ignores
 .godot/
 .nomedia
@@ -9,6 +10,7 @@
 .import/
 export.cfg
 export_credentials.cfg
+.editorconfig
 
 # Imported translations (automatically generated from CSV files)
 *.translation
